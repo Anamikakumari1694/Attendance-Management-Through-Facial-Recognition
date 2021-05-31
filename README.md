@@ -1,2 +1,2 @@
 # Attendance-Management-Through-Facial-Recognition
-It is the most efficient systems of all existing once for identification of people.It can be used in school, collegeges or any other organization. 
+It is the most efficient systems of all existing once for identification of people.It can be used in school, colleges or any other organization.To avoid the difficulty of taking attendance of large numbers, there is a need of automated attendance system that is fast and reduces the chance of fake attendance. in this technology sysytem is developed for deploying an easy and secure way of taking down attendance. This attendance is recorded by continuosly detecting faces of employeees or students via camera as they enter in the classroom.
